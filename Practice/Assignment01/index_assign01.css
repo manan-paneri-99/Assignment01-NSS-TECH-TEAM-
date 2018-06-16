@@ -1,0 +1,15 @@
+#head01{ color : black;
+	            font-size:400%;
+                font-family : Comic sans MS;
+			    text-align: center;
+				background:orange;
+				margin:0px;
+			    border-bottom-style:dashed;
+				border-width:5px;
+              }
+	    p{font-family:Agency FB;
+		  font-size:120%;
+		  margin:10px;
+		 }
+		#redirectlink{color:red;
+		             }
